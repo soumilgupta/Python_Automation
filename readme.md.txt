@@ -1,1 +1,1 @@
-This isn an automation programme made by Parth Pant of NITH.
+This isn an automation programme made by Parth Pant of NIT Hamirpur. .
