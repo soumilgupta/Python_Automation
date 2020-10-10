@@ -1,1 +1,1 @@
-This code was writen by Parth Pant from NIT Hamirpur.
+This code is writen by Parth Pant from NIT Hamirpur.
