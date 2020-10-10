@@ -1,1 +1,1 @@
-this code was writen by Parth Pant
+This code was writen by Parth Pant from NIT
